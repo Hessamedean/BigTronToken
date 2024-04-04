@@ -1,3 +1,6 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/TRC20-Contract-Template"]
+	path = lib/TRC20-Contract-Template
+	url = https://github.com/TRON-Developer-Hub/TRC20-Contract-Template
